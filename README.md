@@ -5,7 +5,7 @@ FitFindr is an agentic secondhand-fashion shopping assistant. It takes a natural
 ## Demo Video
 
 <!-- Paste your recorded video URL here before submission -->
-📽 [Demo video (3–5 min)](TODO_paste_video_link_here)
+📽 https://youtu.be/fUc58-jZeuw 
 
 ## Quickstart
 
